@@ -1,0 +1,34 @@
+#banner-img {
+  max-height: 350px;
+}
+
+.left-menu {
+  background-color: orange;
+}
+
+.top-menu {
+  background-color: burlywood;
+}
+
+.center {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.min-height {
+  min-height: 200px;
+}
+
+.photo-brown {
+  background-color: brown;
+}
+
+.photo-aqua {
+  background-color: aqua;
+}
+
+footer {
+  min-height: 100px;
+  background-color: chocolate;
+}

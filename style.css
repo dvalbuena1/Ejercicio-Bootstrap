@@ -1,0 +1,41 @@
+#banner-img {
+  max-height: 350px;
+}
+
+.left-menu {
+  background-color: orange;
+}
+
+.top-menu {
+  background-color: burlywood;
+}
+
+.center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.min-height {
+  min-height: 200px;
+}
+
+.photo-brown {
+  background-color: brown;
+}
+
+.photo-aqua {
+  background-color: aqua;
+}
+
+footer {
+  min-height: 100px;
+  background-color: chocolate;
+}
+/*# sourceMappingURL=style.css.map */
